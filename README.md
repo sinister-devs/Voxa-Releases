@@ -4,11 +4,11 @@ Official Dev and Prod installer repository. Application and backend source code 
 
 ## Download
 
-**[Download Voxa Dev 27.53 for Mac](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.53-macos-dev-beta.1/Voxa-27.53-universal.dmg)**
+**[Download Voxa Dev 27.54 for Mac](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.54-macos-dev-beta.1/Voxa-27.54-universal.dmg)**
 
 - macOS 14 or later; Apple Silicon and Intel.
 - Universal drag-to-install DMG. The app is labelled Voxa Dev.
-- [Release notes and SHA256 checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.53-macos-dev-beta.1).
+- [Release notes and SHA256 checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.54-macos-dev-beta.1).
 - [Инструкция на русском](INSTALL.ru.md).
 
 This is a **Dev beta** using your own OpenAI API key and separate provider billing. The server-connected Prod Free/Premium product is not published here yet. Windows installers have not been migrated into this repository; Android is not available.
