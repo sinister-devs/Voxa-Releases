@@ -11,7 +11,7 @@ Official Dev and Prod installer repository. Application and backend source code 
 - [Release notes and SHA256 checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.54-macos-dev-beta.1).
 - [Инструкция на русском](INSTALL.ru.md).
 
-This is a **Dev beta** using your own OpenAI API key and separate provider billing. The server-connected Prod Free/Premium product is not published here yet. Windows installers have not been migrated into this repository; Android is not available.
+This is a **Dev beta** using your own OpenAI API key and separate provider billing. The server-connected Prod Free/Premium product is not published here yet. Windows 0.2.1 is available below as an unchanged archived beta; it does not include the newer Mac Dev features. Android is not available.
 
 ## Install
 
@@ -26,3 +26,9 @@ The same app identifier is used by earlier Mac beta builds. Back up local histor
 Your API key is stored in macOS Keychain. Audio and text needed for requested AI processing are sent to the configured provider. Local automated and package checks do not establish provider availability, microphone quality or compatibility with every editor. Do not put API keys, recordings or private text in public issues.
 
 Only approved binaries, relative checksums and user documentation belong in this repository. No application source, credentials, personal screenshots or local histories.
+
+## Archived Windows beta
+
+[Windows 11 x64 Setup EXE](https://github.com/sinister-devs/Voxa-Releases/releases/download/v0.2.1-windows-beta.1/Voxa-0.2.1-Windows-x64-Setup.exe) · [Portable ZIP](https://github.com/sinister-devs/Voxa-Releases/releases/download/v0.2.1-windows-beta.1/Voxa-0.2.1-Windows-x64-Portable.zip)
+
+Windows 0.2.1 beta was originally released on September 21, 2026. These files were migrated without changes; they were not rebuilt with Mac Dev 27.54 updates. This is an unsigned BYO beta with separate OpenAI API billing. Windows 11 x64 is required. Review the [Windows setup and data-handling guide](INSTALL-Windows.ru.md) and [release checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v0.2.1-windows-beta.1). Native Windows acceptance was not repeated for this migration.
