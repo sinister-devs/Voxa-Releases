@@ -1,10 +1,10 @@
-# Установка Voxa Dev 27.74
+# Установка Voxa Dev 27.82
 
-[Скачать Mac Dev beta](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.74-macos-dev-beta.1/Voxa-27.74-universal.dmg)
+[Скачать Mac Dev beta](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.82-macos-dev-beta.1/Voxa-27.82-universal.dmg)
 
 Требуется macOS 14 или новее. Один DMG поддерживает Apple Silicon и Intel. Это Dev-версия с личным OpenAI API-ключом и отдельной оплатой API. Prod с сервером и подписками пока не опубликована.
 
-1. Сверьте SHA256 файла с SHA256SUMS.txt на [странице релиза](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.74-macos-dev-beta.1).
+1. Сверьте SHA256 файла с SHA256SUMS.txt на [странице релиза](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.82-macos-dev-beta.1).
 2. Закройте предыдущую Voxa. Откройте DMG и перетащите Voxa.app в Applications. Приложение называется Voxa Dev.
 3. Запустите его из Applications и настройте API-ключ, микрофон, Accessibility и шорткаты. Перед обновлением сохраните резервную копию своей истории и записей.
 

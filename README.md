@@ -4,11 +4,11 @@ Official Dev and Prod installer repository. Application and backend source code 
 
 ## Download
 
-**[Download Voxa Dev 27.74 for Mac](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.74-macos-dev-beta.1/Voxa-27.74-universal.dmg)**
+**[Download Voxa Dev 27.82 for Mac](https://github.com/sinister-devs/Voxa-Releases/releases/download/v27.82-macos-dev-beta.1/Voxa-27.82-universal.dmg)**
 
 - macOS 14 or later; Apple Silicon and Intel.
 - Universal drag-to-install DMG. The app is labelled Voxa Dev.
-- [Release notes and SHA256 checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.74-macos-dev-beta.1).
+- [Release notes and SHA256 checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v27.82-macos-dev-beta.1).
 - [Инструкция на русском](INSTALL.ru.md).
 
 This is a **Dev beta** using your own OpenAI API key and separate provider billing. The server-connected Prod Free/Premium product is not published here yet. Windows 0.2.1 is available below as an unchanged archived beta; it does not include the newer Mac Dev features. Android is not available.
@@ -32,4 +32,4 @@ Only approved binaries, relative checksums and user documentation belong in this
 
 [Windows 11 x64 Setup EXE](https://github.com/sinister-devs/Voxa-Releases/releases/download/v0.2.1-windows-beta.1/Voxa-0.2.1-Windows-x64-Setup.exe) · [Portable ZIP](https://github.com/sinister-devs/Voxa-Releases/releases/download/v0.2.1-windows-beta.1/Voxa-0.2.1-Windows-x64-Portable.zip)
 
-Windows 0.2.1 beta was originally released on September 21, 2026. These files were migrated without changes; they were not rebuilt with Mac Dev 27.74 updates. This is an unsigned BYO beta with separate OpenAI API billing. Windows 11 x64 is required. Review the [Windows setup and data-handling guide](INSTALL-Windows.ru.md) and [release checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v0.2.1-windows-beta.1). Native Windows acceptance was not repeated for this migration.
+Windows 0.2.1 beta was originally released on September 21, 2026. These files were migrated without changes; they were not rebuilt with Mac Dev 27.82 updates. This is an unsigned BYO beta with separate OpenAI API billing. Windows 11 x64 is required. Review the [Windows setup and data-handling guide](INSTALL-Windows.ru.md) and [release checksums](https://github.com/sinister-devs/Voxa-Releases/releases/tag/v0.2.1-windows-beta.1). Native Windows acceptance was not repeated for this migration.
